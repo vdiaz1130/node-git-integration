@@ -1,7 +1,7 @@
 {
   "name": "github-integration",
   "version": "1.0.0",
-  "description": "Testing bruh",
+  "description": "Testing bruh... Once again.",
   "main": "main.js",
   "scripts": {
     "test": "node test.js",
